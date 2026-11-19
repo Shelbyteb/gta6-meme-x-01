@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Shelbyteb/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Shelbyteb/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01)
+
 # gta6-meme-x-01 — "BOSS, I CAUGHT THE LEONIDA FLU"
 
 An entry for the make.fun bounty **"Post a GTA 6 meme on X"**: a GTA 6 meme with
